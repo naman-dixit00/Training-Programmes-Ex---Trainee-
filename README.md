@@ -1,3 +1,16 @@
+<p align="center">
+  <a href="https://www.shutterstock.com/image-vector/flat-colorful-design-concept-training-260nw-1271540350.jpg">
+    <img 
+      src="https://www.shutterstock.com/image-vector/flat-colorful-design-concept-training-260nw-1271540350.jpg" 
+      alt="Logo" 
+      style="width:100%; height:200px; object-fit:cover; border-radius:10px;"
+    >
+  </a>
+  <h3 align="center">Code in Place 2024 and Karel Solutions</h3>  
+</p>
+<h4 align="center">*Image courtesy of Stanford Code in Place / LinkedIn*  
+Source: [LinkedIn — Stanford Code in Place](https://www.linkedin.com/company/stanford-university-code-in-place) </h4>
+
 # Certificates & Professional Training Portfolio
 
 This repository documents the professional training programmes and workshops I completed during my academic career. Each entry below summarizes the official scope and objectives of the programme (sourced from the respective organisations’ official materials) and indicates the work or certificate artifacts included in this repository.
