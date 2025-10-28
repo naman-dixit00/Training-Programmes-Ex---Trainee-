@@ -7,7 +7,6 @@
     >
   </a>
 </p>
-<h4 align="center">*Source :TalentLMS (https://www.talentlms.com/blog/how-why-employee-training-leads-business-growth/) </h4>
 
 # Certificates & Professional Training Portfolio
 
@@ -67,5 +66,5 @@ This repository documents the professional training programmes and workshops I c
 - CERN — CERN–Solvay Education Programme (online course and student camps). :contentReference  
 - Microsoft — Microsoft Innovative Educator / Microsoft Learn for Educators. :contentReference
 
-
+<h4 align="center">*Image Source :TalentLMS (https://www.talentlms.com/blog/how-why-employee-training-leads-business-growth/) </h4>
 
