@@ -3,7 +3,7 @@
     <img 
       src="https://www.sessionlab.com/wp-content/uploads/training_gb.png" 
       alt="Logo" 
-      style="width:100%; height:500px; object-fit:cover; border-radius:10px;"
+      style="width:100%; height:415 px; object-fit:cover; border-radius:10px;"
     >
   </a>
 </p>
