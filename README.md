@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="https://www.sessionlab.com/wp-content/uploads/training_gb.png">
+  <a href="https://www.talentlms.com/blog/wp-content/uploads/2017/05/train-to-grow-blog.jpg">
     <img 
-      src="https://www.sessionlab.com/wp-content/uploads/training_gb.png" 
+      src="https://www.talentlms.com/blog/wp-content/uploads/2017/05/train-to-grow-blog.jpg" 
       alt="Logo" 
       style="width:100%; height:95 px; object-fit:cover; border-radius:10px;"
     >
