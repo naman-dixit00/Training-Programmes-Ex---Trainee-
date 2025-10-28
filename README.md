@@ -3,7 +3,7 @@
     <img 
       src="https://www.talentlms.com/blog/wp-content/uploads/2017/05/train-to-grow-blog.jpg" 
       alt="Logo" 
-      style="width:100%; height:95 px; object-fit:cover; border-radius:10px;"
+      style="width:100%; height:60 px; object-fit:cover; border-radius:10px;"
     >
   </a>
 </p>
