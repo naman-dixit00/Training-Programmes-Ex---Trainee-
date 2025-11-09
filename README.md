@@ -8,7 +8,7 @@
   </a>
 </p>
 
-# Certificates & Professional Training Portfolio
+# Skill Enhancement Programme 
 
 This repository documents the professional training programmes and workshops I completed during my academic career. Each entry below summarizes the official scope and objectives of the programme (sourced from the respective organisations’ official materials) and indicates the work or certificate artifacts included in this repository.
 
@@ -20,13 +20,6 @@ This repository documents the professional training programmes and workshops I c
 **Summary:** Open Science 101 and Open Science Essentials are introductory courses from NASA that teach the principles and practical implementation of open science. The curriculum covers reproducible workflows, data management and sharing, open-source tooling, and practical strategies to plan and conduct open-science research. The courses are offered free of charge with online and in-person options, and they are intended for researchers, students, and practitioners who want to adopt transparent and reusable research practices. :contentReference[oaicite:0]{index=0}
 
 **Included in this repo:** course notes, project artifacts, and certificate (if applicable).
-
----
-
-### 2. ISRO / IIRS — AI, ML & Python (e-Learning / Edusat outreach)  
-**Summary:** The Indian Institute of Remote Sensing (IIRS), an outreach arm regularly collaborating with ISRO, provides short, focused courses on geospatial data processing, and AI/ML applications using Python. Typical course content includes foundations of AI/ML, application of machine learning to remote sensing and crop/landcover mapping, practical hands-on sessions using Python and geospatial toolkits, and assessments leading to a certificate of completion. Many such offerings are delivered as free five-day online courses via the IIRS e-learning and EDUSAT outreach programmes. (I completed the ISRO/IIRS offering through the EDUSAT/official registration channel.) :contentReference[oaicite:1]{index=1}
-
-**Included in this repo:** downloaded brochure, lecture notes, code notebooks, and certificate scan.
 
 ---
 
@@ -47,10 +40,7 @@ This repository documents the professional training programmes and workshops I c
 
 ## How items were sourced and verified
 
-- Descriptions above are paraphrased from each programme’s official pages (NASA, IIRS/ISRO, CERN, Microsoft). Official sources are cited inline in the relevant sections for transparency and verification. :contentReference[oaicite:4]{index=4}
-
-- For the ISRO/IIRS course I completed via **EDUSAT/IIRS**, the official brochure and EDUSAT registration confirmation are included in `/documents/` per repository contents.
-
+- Descriptions above are paraphrased from each programme’s official pages (NASA , CERN , Microsoft). Official sources are cited inline in the relevant sections for transparency and verification. :contentReference[oaicite:4]{index=4}
 ---
 
 ## Notes on usage and privacy
@@ -62,7 +52,6 @@ This repository documents the professional training programmes and workshops I c
 
 ## Official references (selected)
 - NASA Open Science — Open Science 101 / Open Science Essentials. :contentReference
-- IIRS / ISRO — EDUSAT & IIRS outreach short courses on AI/ML and geospatial processing. :contentReference 
 - CERN — CERN–Solvay Education Programme (online course and student camps). :contentReference  
 - Microsoft — Microsoft Innovative Educator / Microsoft Learn for Educators. :contentReference
 
