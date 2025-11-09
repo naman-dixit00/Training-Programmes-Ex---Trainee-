@@ -8,7 +8,7 @@
   </a>
 </p>
 
-# Skill Enhancement Programme 
+# Skill Enhancement Program's 
 
 This repository documents the professional training programmes and workshops I completed during my academic career. Each entry below summarizes the official scope and objectives of the programme (sourced from the respective organisations’ official materials) and indicates the work or certificate artifacts included in this repository.
 
